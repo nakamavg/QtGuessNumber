@@ -1,0 +1,9 @@
+/Users/nakama/NumberGuessGui/build/Qt_6_8_1_for_macOS-Debug/CMakeFiles/NumberGuessGui.dir
+/Users/nakama/NumberGuessGui/build/Qt_6_8_1_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/nakama/NumberGuessGui/build/Qt_6_8_1_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/nakama/NumberGuessGui/build/Qt_6_8_1_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Users/nakama/NumberGuessGui/build/Qt_6_8_1_for_macOS-Debug/CMakeFiles/install.dir
+/Users/nakama/NumberGuessGui/build/Qt_6_8_1_for_macOS-Debug/CMakeFiles/install/local.dir
+/Users/nakama/NumberGuessGui/build/Qt_6_8_1_for_macOS-Debug/CMakeFiles/install/strip.dir
+/Users/nakama/NumberGuessGui/build/Qt_6_8_1_for_macOS-Debug/CMakeFiles/NumberGuessGui_autogen_timestamp_deps.dir
+/Users/nakama/NumberGuessGui/build/Qt_6_8_1_for_macOS-Debug/CMakeFiles/NumberGuessGui_autogen.dir

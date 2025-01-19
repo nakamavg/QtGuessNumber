@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_NumberGuessGui_FILE /Users/nakama/NumberGuessGui/build/Qt_6_8_1_for_macOS-Debug/NumberGuessGui.app/Contents/MacOS/NumberGuessGui)
+set(__QT_DEPLOY_TARGET_NumberGuessGui_TYPE EXECUTABLE)

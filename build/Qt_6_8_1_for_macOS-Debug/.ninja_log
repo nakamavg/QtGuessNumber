@@ -1,0 +1,17 @@
+# ninja log v6
+1	375	1737288207676901374	NumberGuessGui_autogen/timestamp	24f086a3f49b8186
+1	375	1737288207676901374	NumberGuessGui_autogen/mocs_compilation.cpp	24f086a3f49b8186
+1	375	1737288207676901374	/Users/nakama/NumberGuessGui/build/Qt_6_8_1_for_macOS-Debug/NumberGuessGui_autogen/timestamp	24f086a3f49b8186
+1	375	1737288207676901374	/Users/nakama/NumberGuessGui/build/Qt_6_8_1_for_macOS-Debug/NumberGuessGui_autogen/mocs_compilation.cpp	24f086a3f49b8186
+377	1449	1737288207692611874	CMakeFiles/NumberGuessGui.dir/NumberGuessGui_autogen/mocs_compilation.cpp.o	68f470750729cdc
+379	1451	1737288207695250499	CMakeFiles/NumberGuessGui.dir/main.cpp.o	f87bde7f87f9f18a
+380	1492	1737288207695535624	CMakeFiles/NumberGuessGui.dir/widget.cpp.o	12ed8885d5651f71
+1492	1680	1737288208807788291	NumberGuessGui.app/Contents/MacOS/NumberGuessGui	598036f69a15c1f1
+8	281	1737288531864845000	NumberGuessGui_autogen/timestamp	24f086a3f49b8186
+8	281	1737288531864845000	NumberGuessGui_autogen/mocs_compilation.cpp	24f086a3f49b8186
+8	281	1737288531864845000	/Users/nakama/NumberGuessGui/build/Qt_6_8_1_for_macOS-Debug/NumberGuessGui_autogen/timestamp	24f086a3f49b8186
+8	281	1737288531864845000	/Users/nakama/NumberGuessGui/build/Qt_6_8_1_for_macOS-Debug/NumberGuessGui_autogen/mocs_compilation.cpp	24f086a3f49b8186
+281	1458	1737288531876820041	CMakeFiles/NumberGuessGui.dir/NumberGuessGui_autogen/mocs_compilation.cpp.o	68f470750729cdc
+281	1460	1737288531877024666	CMakeFiles/NumberGuessGui.dir/main.cpp.o	f87bde7f87f9f18a
+281	1474	1737288531877151999	CMakeFiles/NumberGuessGui.dir/widget.cpp.o	12ed8885d5651f71
+1474	1666	1737288533069808249	NumberGuessGui.app/Contents/MacOS/NumberGuessGui	598036f69a15c1f1
