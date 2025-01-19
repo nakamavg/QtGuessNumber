@@ -26,5 +26,6 @@ private:
     Ui::Widget *ui;
     int secret_number;
     int guess_number;
+    int attempts;
 };
 #endif // WIDGET_H

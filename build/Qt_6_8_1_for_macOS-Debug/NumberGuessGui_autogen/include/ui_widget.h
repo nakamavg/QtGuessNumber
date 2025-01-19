@@ -35,7 +35,7 @@ public:
     {
         if (Widget->objectName().isEmpty())
             Widget->setObjectName("Widget");
-        Widget->resize(435, 232);
+        Widget->resize(725, 598);
         verticalLayout = new QVBoxLayout(Widget);
         verticalLayout->setObjectName("verticalLayout");
         titleLabel = new QLabel(Widget);

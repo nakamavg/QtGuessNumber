@@ -1,0 +1,9 @@
+/Users/nakama/NumberGuessGui/CMakeFiles/NumberGuessGui.dir
+/Users/nakama/NumberGuessGui/CMakeFiles/edit_cache.dir
+/Users/nakama/NumberGuessGui/CMakeFiles/rebuild_cache.dir
+/Users/nakama/NumberGuessGui/CMakeFiles/list_install_components.dir
+/Users/nakama/NumberGuessGui/CMakeFiles/install.dir
+/Users/nakama/NumberGuessGui/CMakeFiles/install/local.dir
+/Users/nakama/NumberGuessGui/CMakeFiles/install/strip.dir
+/Users/nakama/NumberGuessGui/CMakeFiles/NumberGuessGui_autogen_timestamp_deps.dir
+/Users/nakama/NumberGuessGui/CMakeFiles/NumberGuessGui_autogen.dir
